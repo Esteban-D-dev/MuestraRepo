@@ -6,6 +6,9 @@ print("Espero que les guste esta muestra de python")
 print("Gracias por ver esta muestra de python")
 print("Hasta luego")
 print("Adios")
+print("Fin de la muestra de python")
+
+
 
 
 
